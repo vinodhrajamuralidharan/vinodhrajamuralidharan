@@ -1,9 +1,9 @@
-   I have always been fascinated with frontend technologies,  even have the experience on working backend skills, and the ability to encourage the expansion of the imaginations...
+   I have always been fascinated with frontend technologies,  even I have the experience on working backend skills, and the ability to encourage the expansion of the imaginations...
    It is my dream to be in the technology / computer / software field from my childhood as I got the inspiration from one of my neighbour. That drove me to do masters' degree in to the computer study although I did bachelor' degree in physics.
 
-   I always love this and gives me a daily learning experience.   
+   I love the daily challenges and daily learning experience.   
 
-   Now it is around 11 years of experience in the software field and has gotten / and getting (currently) the chance to work in amazing projects where I can prove my own strengths and learn new things.
+   Now it is around 11 years of experience in the software field and worked in amazing projects where I can prove my own strengths and learn new things.
 
 So far, I have been in,
 
