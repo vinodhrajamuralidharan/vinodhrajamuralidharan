@@ -7,7 +7,7 @@
 
 So far, I have been in,
 
-Frontend Skills: 
+Frontend Skills:   
  👉🏾 Javascript
  👉🏾  Ember.js
  👉🏾  Vue.js
