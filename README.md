@@ -8,55 +8,55 @@
 So far, I have been in,
 
 Frontend Skills:   
- 👉🏾 Javascript
- 👉🏾  Ember.js
- 👉🏾  Vue.js
- 👉🏾  Vuex
- 👉🏾  React.js
- 👉🏾  Typescript
- 👉🏾  GraphQl
- 👉🏾 Node.js
- 👉🏾  Angular
- 👉🏾  Python
- 👉🏾  Django
- 👉🏾  PHP
- 👉🏾  SQL
- 👉🏾  MySQl
- 👉🏾  CodeIgniter
- 👉🏾  Smarty
- 👉🏾  ember-cli
- 👉🏾  glimmer.js
-👉🏾   Quill.js
-👉🏾  Jquery
-👉🏾  HTML
-👉🏾  Handlebars
-👉🏾  coffeescript
-👉🏾  Nunjucks
-👉🏾  CSS
-👉🏾  SASS
-👉🏾  LESS
-👉🏾  Google Invisible Recaptcha
+ 👉🏾 Javascript  
+ 👉🏾  Ember.js  
+ 👉🏾  Vue.js  
+ 👉🏾  Vuex  
+ 👉🏾  React.js  
+ 👉🏾  Typescript  
+ 👉🏾  GraphQl  
+ 👉🏾 Node.js  
+ 👉🏾  Angular  
+ 👉🏾  Python    
+ 👉🏾  Django  
+ 👉🏾  PHP  
+ 👉🏾  SQL  
+ 👉🏾  MySQl 
+ 👉🏾  CodeIgniter 
+ 👉🏾  Smarty 
+ 👉🏾  ember-cli 
+ 👉🏾  glimmer.js 
+👉🏾   Quill.js 
+👉🏾  Jquery 
+👉🏾  HTML 
+👉🏾  Handlebars 
+👉🏾  coffeescript 
+👉🏾  Nunjucks 
+👉🏾  CSS 
+👉🏾  SASS 
+👉🏾  LESS 
+👉🏾  Google Invisible Recaptcha  
 
-Testing:
-👉🏾	TDD
-👉🏾	BDD
-👉🏾	Unit Testing
-👉🏾	Integration Testing
-👉🏾	Acceptance Testing
+Testing: 
+👉🏾	TDD 
+👉🏾	BDD 
+👉🏾	Unit Testing 
+👉🏾	Integration Testing 
+👉🏾	Acceptance Testing 
 
-Operation Systems:
-👉🏾	MAC OS
-👉🏾	Windows
+Operation Systems: 
+👉🏾	MAC OS 
+👉🏾	Windows 
 
-Tools
-👉🏾	Github
-👉🏾	SVN
-👉🏾	Bitbucket
-👉🏾	JIRA
-👉🏾	Visual Code
-👉🏾	Atom
+Tools 
+👉🏾	Github 
+👉🏾	SVN 
+👉🏾	Bitbucket 
+👉🏾	JIRA 
+👉🏾	Visual Code 
+👉🏾	Atom 
 
-Others
-👉🏾	Team management
-👉🏾	Agile, Scrums
-👉🏾	Working directly with clients
+Others 
+👉🏾	Team management 
+👉🏾	Agile, Scrums 
+👉🏾	Working directly with clients 
