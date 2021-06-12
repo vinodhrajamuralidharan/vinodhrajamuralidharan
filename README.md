@@ -12,7 +12,9 @@ Frontend Skills:
  👉🏾  Ember.js  
  👉🏾  Vue.js  
  👉🏾  Vuex  
- 👉🏾  React.js  
+ 👉🏾  React.js 
+ 👉🏾  Redux
+ 👉🏾  Redux-thunk  
  👉🏾  Typescript  
  👉🏾  GraphQl  
  👉🏾 Node.js  
